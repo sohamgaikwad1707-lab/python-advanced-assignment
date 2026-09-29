@@ -39,4 +39,4 @@ arr = arr * 2
 
 print("\nArray after multiplying by 2 using broadcasting:")
 print(arr)
-Displaying Assig10.py.
+
