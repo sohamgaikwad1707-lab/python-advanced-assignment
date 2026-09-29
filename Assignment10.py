@@ -1,6 +1,4 @@
 
-Assig10.py
-100%
 import numpy as np
 
 # Create a one-dimensional array containing numbers from 1 to 10
